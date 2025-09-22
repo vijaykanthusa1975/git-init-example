@@ -3,3 +3,4 @@ This is third file
 This is the 3rd line
 
 Duplicate demo for merge conflict
+Demo for merge conflict
